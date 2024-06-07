@@ -14,7 +14,7 @@ Key Questions Answered:
 🗓 Which month had the highest sales and orders?
 👫 Who purchased more - men or women in 2022?
 📦 What were the different order statuses in 2022?
-🌍 Which top 10 states contributed the most to sales?
+🌍 Which top 5 states contributed the most to sales?
 📈 Relation between age and gender based on the number of orders.
 🛒 Which sales channel was the top performer?
 🏷 What was the highest selling category?
@@ -75,4 +75,4 @@ Boost engagement with personalized offers, loyalty programs, and targeted promot
 
 This report offers a comprehensive overview of Vrinda Store's sales performance, providing actionable insights to drive growth. Let's make data-driven decisions and watch our sales soar! 🚀📊
 
-#DataAnalytics #SalesReport #RetailInsights #CustomerEngagement #MarketingStrategy #DataDrivenDecisions #VrindaStore
+#DataAnalytics #SalesReport #RetailInsights #CustomerEngagement #MarketingStrategy #DataDrivenDecisions
